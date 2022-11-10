@@ -8,4 +8,11 @@ const data = {
     color : "black"
 }
 
+const data2 = {
+    name : "Mochi",
+    animal : "cat",
+    age : 2,
+    color : "black"
+}
+
     
